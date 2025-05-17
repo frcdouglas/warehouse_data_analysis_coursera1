@@ -36,14 +36,11 @@ Este repositório contém uma série de análises focadas em dados de **warehous
 ```
 ---
 
-## 📊 Exemplos de Análises  
-
-Aqui estão algumas sugestões de análises que você pode incluir:  
+## 📊 Análises  
 
 ### **Análises de Capacidade e Utilização**  
 - **Capacidade Utilizada:** Percentual de utilização de cada warehouse (`maximumcapacity` vs. total de pedidos enviados).  
-- **Desbalanceamento de Capacidade:** Identificar warehouses com baixa utilização para redistribuição de estoque.  
-- **Distribuição Geográfica:** Analisar a capacidade e quantidade de funcionários por estado para otimização logística.  
+- **Desbalanceamento de Capacidade:** Identificar warehouses com baixa utilização para redistribuição de estoque. 
 
 ### **Análises de Eficiência Operacional**  
 - **Tempo Médio de Processamento:** Tempo médio entre `orderdate` e `shipperdate` para cada warehouse.  
