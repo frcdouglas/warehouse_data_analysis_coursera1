@@ -21,9 +21,7 @@ Este repositório contém uma série de análises focadas em dados de **warehous
 ├── 📁 SQL_Queries
 
 │ ├── 01_warehouse_utilization.sql
-
 │ ├── 02_order_fulfillment.sql
-
 │ └── 03_employee_efficiency.sql
 
 ├── 📁 PowerBI_Dashboards
