@@ -17,22 +17,33 @@ Este repositório contém uma série de análises focadas em dados de **warehous
 
 📁 warehouse-analysis-series
 │
+
 ├── 📁 SQL_Queries
 
 │ ├── 01_warehouse_utilization.sql
 
 │ ├── 02_order_fulfillment.sql
+
 │ └── 03_employee_efficiency.sql
 │
 ├── 📁 PowerBI_Dashboards
+
 │ ├── Warehouse_Capacity_Overview.pbix
+
 │ ├── Order_Performance.pbix
+
 │ └── Employee_Productivity.pbix
+
 │
+
 ├── 📁 Data_Samples
+
 │ ├── warehouses.csv
+
 │ └── orders.csv
+
 │
+
 └── README.md
 
 ---
