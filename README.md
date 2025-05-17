@@ -14,7 +14,7 @@ Este repositório contém uma série de análises focadas em dados de **warehous
 ---
 
 ## 📂 Estrutura do Repositório  
-
+```
 📁 warehouse-analysis-series
 │
 ├── 📁 SQL_Queries
@@ -33,7 +33,7 @@ Este repositório contém uma série de análises focadas em dados de **warehous
 │ └── orders.csv
 │
 └── README.md
-
+```
 ---
 
 ## 📊 Exemplos de Análises  
